@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kay Kletzsch from enno Digital GmbH</h1>
+<h1 align="center">Hi 👋, I'm Kay Kletzsch from enno.digital GmbH</h1>
 <h3 align="center">Developer from Cologne, Germany</h3>
 
 <p align="center">
