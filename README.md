@@ -1,11 +1,11 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Kay+Kletzsch;Full-Stack+Developer+%40+enno.digital;15%2B+years+building+for+the+web;Shopware+%E2%80%A2+Symfony+%E2%80%A2+PHP+%E2%80%A2+JavaScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Kay+Kletzsch;Full-Stack+Developer+%40+enno.dev;15%2B+years+building+for+the+web;Shopware+%E2%80%A2+Symfony+%E2%80%A2+PHP+%E2%80%A2+JavaScript" alt="Typing SVG" />
 
 <p>
-  <a href="https://www.enno.digital">
-    <img src="https://img.shields.io/badge/Website-enno.digital-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://www.enno.dev">
+    <img src="https://img.shields.io/badge/Website-enno.dev-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:kletzsch@enno.digital">
     <img src="https://img.shields.io/badge/Email-kletzsch%40enno.digital-BB9AF7?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
@@ -26,7 +26,6 @@ role:        Full-Stack Developer @ enno.digital GmbH
 location:    Cologne, Germany 🇩🇪
 experience:  15+ years in development
 focus:       Shopware, Symfony & modern web
-learning:    [ Vue.js, MongoDB ]
 fun_fact:    "Started coding out of curiosity — never stopped. 🚀"
 ```
 
@@ -134,8 +133,8 @@ fun_fact:    "Started coding out of curiosity — never stopped. 🚀"
 
 <div align="center">
 
-<a href="https://www.enno.digital">
-  <img src="https://img.shields.io/badge/Website-enno.digital-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+<a href="https://www.enno.dev">
+  <img src="https://img.shields.io/badge/Website-enno.dev-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
 </a>
 <a href="mailto:kletzsch@enno.digital">
   <img src="https://img.shields.io/badge/Email-kletzsch%40enno.digital-BB9AF7?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
